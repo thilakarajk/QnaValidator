@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "qnavalidator"
+version = "0.1.0"
+description = "A simple utility to test the QnaMaker Knowledgebase"
+authors = ["Thilakaraj K <nmrkthilakraj@gmail.com>"]
+license = "MIT"
+
+[tool.poetry.dependencies]
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry>=0.12"]
+build-backend = "poetry.masonry.api"
